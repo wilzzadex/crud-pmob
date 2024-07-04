@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911640321874",
+    "project_id": "latihan-crud-pmob",
+    "storage_bucket": "latihan-crud-pmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911640321874:android:10c55da31343101eb8e48b",
+        "android_client_info": {
+          "package_name": "com.willy.fixlatihancrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZ4u6t9r57E6yC9uwKaooCTlmhTjen6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
